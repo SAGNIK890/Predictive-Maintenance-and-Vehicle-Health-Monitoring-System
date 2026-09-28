@@ -1,0 +1,50 @@
+
+AI/ML-BASED PREDICTIVE MAINTENANCE
+AND VEHICLE HEALTH MONITORING SYSTEM
+=====================================
+
+Project Outputs
+---------------
+
+Models:
+1. Logistic Regression
+2. Random Forest
+3. XGBoost
+
+Machine Learning Outputs:
+- Accuracy
+- Precision
+- Recall
+- F1 Score
+- ROC-AUC
+- Confusion Matrix
+- ROC Curve
+
+Vehicle Monitoring:
+- Failure Probability
+- Vehicle Health Score
+- Vehicle Status
+- Maintenance Alert
+
+XAI:
+- Random Forest Feature Importance
+- SHAP Explanation
+
+Architecture:
+Vehicle Sensors
+      ↓
+Data Preprocessing
+      ↓
+ML Model
+      ↓
+Failure Probability
+      ↓
+Vehicle Health Score
+      ↓
+Maintenance Alert
+
+Dataset:
+Predictive Maintenance Engine Sensor Dataset
+
+Dataset URL:
+https://huggingface.co/datasets/mukherjee78/predictive-maintenance-engine-data

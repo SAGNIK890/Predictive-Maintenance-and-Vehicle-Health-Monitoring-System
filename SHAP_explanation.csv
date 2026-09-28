@@ -1,0 +1,7 @@
+Feature,SHAP contribution
+Fuel pressure,0.10412805025846977
+Engine rpm,-0.07134396286423184
+Coolant pressure,0.04923235074738561
+Lub oil pressure,0.042635859298615325
+lub oil temp,-0.01853948278587312
+Coolant temp,0.0070049211165749015
