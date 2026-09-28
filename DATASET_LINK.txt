@@ -1,0 +1,7 @@
+Dataset Link
+============
+
+Predictive Maintenance Engine Sensor Dataset
+https://huggingface.co/datasets/mukherjee78/predictive-maintenance-engine-data
+
+The Colab notebook automatically downloads the CSV from the dataset repository.
